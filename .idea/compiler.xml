@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="BackUpsReaderV2" />
+        <module name="BackUpsReader" />
+        <module name="BackUpsReaderV2.2 beta" />
+        <module name="BackUpsReaderV2.2 threads" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>
